@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: Jan -17, 2020
+date: Jan 17, 2020
 categories: jekyll update
 ---
 
