@@ -34,11 +34,11 @@ texture:
  
  
  # Defaults
-#defaults:
+defaults:
   # _posts
-#  - scope:
-#      path: ""
-#      type: posts
+  - scope:
+      path: ""
+      type: posts
 #    values:
 #      comments: true
 #      share: true
