@@ -34,15 +34,15 @@ texture:
  
  
  # Defaults
-defaults:
+#defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      comments: true
+#      share: true
+#      related: true
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
