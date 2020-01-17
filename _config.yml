@@ -1,3 +1,5 @@
+remote_theme : thelehhman/texture
+
 title: Texture Theme
 author: GitHub User
 email: your-email@domain.com
@@ -8,8 +10,6 @@ description: > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 url : "https://chajyn.github.io"
 baseurl: ""
-
-remote_theme : thelehhman/texture
 
 # Minima date format
 # refer to https://inbentor.github.io/liquid/filters/date/ if you want to customize this
